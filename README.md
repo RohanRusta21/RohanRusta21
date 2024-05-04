@@ -2,7 +2,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohanrusta21&theme=default&hide_border=false)[<img src="https://img.youtube.com/vi/KMAN6zzH8ZE/maxresdefault.jpg" width="40%">]
+![](https://github-readme-streak-stats.herokuapp.com/?user=rohanrusta21&theme=default&hide_border=false)
 
 
 <!--
