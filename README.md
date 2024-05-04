@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rohan Rustagi
+### Hi there 👋, I'm Rohan Rustagi. Currently working as a DevOps Engineer
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
