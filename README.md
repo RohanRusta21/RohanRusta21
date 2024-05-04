@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rohan Rustagi. Currently working as a DevOps Engineer
 
 # 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DOCKER](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%2361DAFB) ![AZURE](https://img.shields.io/badge/azure-%2320232a.svg?style=for-the-badge&logo=azure&logoColor=%2361DAFB)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DOCKER](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%2361DAFB) ![kubernetes](https://img.shields.io/badge/kubernetes-%2320232a.svg?style=for-the-badge&logo=kubernetes&logoColor=%2361DAFB)
 
 
 # 📊 My GitHub Stats:
