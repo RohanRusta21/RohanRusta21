@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rohan Rustagi
 
 
-# 📊 GitHub Stats:
+# 📊 My GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohanrusta21&theme=default&hide_border=false)
 
 
