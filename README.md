@@ -2,7 +2,7 @@
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DOCKER](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%2361DAFB) ![kubernetes](https://img.shields.io/badge/kubernetes-%2320232a.svg?style=for-the-badge&logo=kubernetes&logoColor=%2361DAFB) ![JENKINS](https://img.shields.io/badge/jenkins-%2320232a.svg?style=for-the-badge&logo=jenkins&logoColor=%2361DAFB) ![TERRAFORM](https://img.shields.io/badge/terraform-%2320232a.svg?style=for-the-badge&logo=terraform&logoColor=%2361DAFB) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AZURE](https://img.shields.io/badge/Microsoft%20Azure-%2320232a.svg?style=for-the-badge&logo=microsoft-azure&logoColor=%230078D4) ![BITBUCKET](https://img.shields.io/badge/Bitbucket-%2320232a.svg?style=for-the-badge&logo=bitbucket&logoColor=%230052CC)
-
+![PYTHON](["https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54")
 
 # 📊 My GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohanrusta21&theme=default&hide_border=false)
